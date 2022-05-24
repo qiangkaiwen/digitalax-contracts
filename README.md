@@ -17,7 +17,7 @@
 
 ## Metadata
 
-*  See project [nft-minting-scripts](https://github.com/DIGITALAX/nft-minting-scripts)
+*  See project [nft-minting-scripts](https://github.com/qiangkaiwen/digitalax-nft-minting-scripts)
 
 ### Subgraph
 
